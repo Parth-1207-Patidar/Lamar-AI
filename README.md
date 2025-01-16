@@ -29,10 +29,11 @@ Follow these steps to set up the project:
    npm install
    or
    yarn install
-3. run developement server:
+3. get a gemini api and add it into a .env file
+4. run developement server:
    ```bash
    npm run dev
-4. follow the provided link of your localhost
+5. follow the provided link of your localhost
 
 
 Feel free to modify the sections or add more project-specific details as needed. Let me know if you’d like additional sections or adjustments!
